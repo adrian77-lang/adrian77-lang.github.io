@@ -1,0 +1,19 @@
+  <br><center>
+        <h1> Comida rapida</h1>
+         </center>
+       <article>
+        <form action="Busqueda.html" method="POST">
+           <input type="text" placeholder="Busqueda"> 
+           <input type="submit" value="buscar">  
+         </form>
+        </article>
+        <img src="icono.png" width="100px">
+
+
+
+
+
+CSS
+article{
+    margin-left: 80%
+}
